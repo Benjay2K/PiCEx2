@@ -9,3 +9,5 @@ add_executable(Ex2.2.c Ex2.2.c)
 add_executable(Ex2.3.c Ex2.3.c)
 add_executable(Ex2.4.c Ex2.4.c)
 add_executable(Ex2.5.c Ex2.5.c)
+
+add_executable(Ex2.7.c Ex2.7.c)
