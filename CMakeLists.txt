@@ -11,3 +11,4 @@ add_executable(Ex2.4.c Ex2.4.c)
 add_executable(Ex2.5.c Ex2.5.c)
 
 add_executable(Ex2.7.c Ex2.7.c)
+add_executable(Ex2.8.c Ex2.8.c)
