@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//2.6)
 void factorial(int n) {
     int i, num;
     float f;
